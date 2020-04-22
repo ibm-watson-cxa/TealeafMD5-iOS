@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name = 'TealeafMD5'
   s.version = '1.0.0'
   s.author = 'Acoustic, L.P.'
-  s.license      = { :type => 'Proprietary, Acoustic, L.P.', :file => 'Licenses/LA_en' }
+  s.license      = { :type => 'Proprietary, Acoustic, L.P.', :file => 'Licenses/License' }
   s.homepage = 'https://github.com/ibm-watson-cxa/TealeafMD5-iOS'
   s.summary = 'Acoustic Tealeaf TealeafMD5 iOS SDK'
   s.platforms = { :ios => "9.0" }
