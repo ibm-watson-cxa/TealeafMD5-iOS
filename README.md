@@ -20,7 +20,6 @@ If you are using Debug version of TealeafMD5. i.e. pod TealeafMD5Debug used by p
 
 ## Used By
 
-* [DigitalAnalytics](https://github.com/ibm-watson-cxa/DigitalAnalytics) - Acoustic, L.P. Digital Analytics SDK
 * [Tealeaf](https://github.com/ibm-watson-cxa/IBMTealeaf) - Acoustic, L.P. Experience Analytics SDK
 
 
