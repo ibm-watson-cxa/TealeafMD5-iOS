@@ -20,10 +20,10 @@ If you are using Debug version of TealeafMD5. i.e. pod TealeafMD5Debug used by p
 
 ## Used By
 
-* [Tealeaf](https://github.com/ibm-watson-cxa/IBMTealeaf) - Acoustic, L.P. Experience Analytics SDK
+* [Tealeaf](https://github.com/acoustic-analytics/IBMTealeaf) - Acoustic, L.P. Experience Analytics SDK
 
 
 ## License
 
-License files can be read [here](https://github.com/ibm-watson-cxa/TealeafMD5-iOS/tree/master/Licenses)
+License files can be read [here](https://github.com/acoustic-analytics/TealeafMD5-iOS/tree/master/Licenses)
 
